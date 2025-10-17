@@ -1,2 +1,2 @@
-# Study-Coin-
+# Study-Coin
 Study Coin Dashboard Assignment 
